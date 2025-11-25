@@ -1,19 +1,19 @@
 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a Ph.D. candidate in Institutes of Science and Development, Chinese Academy of Sciences.
 
 #### Contact
 
-Email: senli@fas.harvard.edu
+Email: dingyi0427@126.com
 
 Github: [Yiding0427](https://Yiding0427.github)
 
 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Innovation Management, Institutes of Science and Development, Chinese Academy of Sciences, 2023-present.\
+B.E., Logistics Management & Computer Science, Anhui University, 2019-2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Science–Technology Interaction, Talent Mobility, Technological Diversification
 
